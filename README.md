@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<WELCOME OUR AUTOMOBILE LEARNING SITE>
 <html lang="ta-LK" dir="ltr">
 <head>
   <meta charset="UTF-8" />
@@ -670,7 +670,7 @@
           <div class="contact-ico">📧</div>
           <div class="contact-item-text">
             <strong>Email</strong>
-            <spanmhdmuhadh76@gmail.com</span>
+            mhdmuhadh76@gmail.com
           </div>
         </div>
         <div class="contact-item">
@@ -699,11 +699,11 @@
         <div class="form-row">
           <div class="form-field">
             <label for="fname">First Name / முதல் பெயர்</label>
-            <input type="text" id="fname" placeholder="Arjun" required />
+            <input type="text" id="fname" placeholder="Mohammad" required />
           </div>
           <div class="form-field">
             <label for="lname">Last Name / கடைசி பெயர்</label>
-            <input type="text" id="lname" placeholder="Kumar" required />
+            <input type="text" id="lname" placeholder="Muhadh" required />
           </div>
         </div>
         <div class="form-field">
